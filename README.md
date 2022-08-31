@@ -1,2 +1,1 @@
-#!/bin/bash
-Shebang
+Basic shell commands
